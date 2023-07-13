@@ -1,0 +1,14 @@
+LABEL_FORMAT = 'xml'
+IMAGE_FORMAT = 'jpg'
+CLASS_TABLE = 'table'
+MAX_LENGTH_PER_DIMENSION = 1000
+PADDING_TABLE = 35
+CLASS_TABLE_ROW = 'table row'
+CLASS_TABLE_COLUMN = 'table column'
+CLASS_TABLE_COLUMN_HEADER = 'table column header'
+CLASS_TABLE_SPANNING_CELL = 'table spanning cell'
+CLASS_TABLE_PROJECTED_ROW_HEADER = 'table projected row header'
+X_MIN = 'xmin'
+Y_MIN = 'ymin'
+X_MAX = 'xmax'
+Y_MAX = 'ymax'
